@@ -34,7 +34,7 @@ body{
 .infos .info_title{
     font-weight: 900;
     margin-bottom: 20px;
-
+    color: hsl(228, 45%, 30%);
 }
 
 .infos .info_p{
